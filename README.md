@@ -1,0 +1,2 @@
+# prueba-repositorio
+cree gitignore
